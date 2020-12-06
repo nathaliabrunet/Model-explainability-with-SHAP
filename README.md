@@ -19,7 +19,12 @@ Algumas visus SHAP:
 ![image](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/image.png)
 ![image_individual](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/image_individual.png)
 ![image_tree](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/image_tree.png)
-<img src="https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/image_tree.png">
+
+<p float="left">
+  <img src="/imagens/image.png" width="100" />
+  <img src="/imagens/image_individual.png" width="100" /> 
+  <img src="/imagens/image_tree.png" width="100" />
+</p>
 
 ### Dados
 O dataset pode ser baixado no kaggle: https://www.kaggle.com/c/titanic/data
