@@ -16,9 +16,9 @@
 A ideia aqui é brincar com o método SHAP para explicabilidade de modelos. Comentar algumas visualizações e como esse método pode ajudar no entendimento das features utilizadas no modelo. Para isso utilizei a base de um desafio já bem conhecido pela comunidade, o desafio do Titanic. Lógico, o desafio já é bem conhecido, já temos algumas hipóteses formadas (e que se comprovam), mas o intuito é ver como esse método pode ajudar em outros tipos de projetos. Por exemplo, conseguir explicar de uma forma mais visual porque um modelo de crédito negou crédito para o indivíduo "X". Ou porque a cliente "tal" foi classificado como fraude, quais as informações dele fez com que o modelo gerasse tal classificação. Enfim, a aplicabilidade vai de cada projeto e objetivo, mas com certeza pode ajudar no melhor entendimento do modelo.  
 
 Algumas visus SHAP: 
-![Summary Plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/image.png)
-![Force plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/image_individual.png)
-![Decision plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/image_tree.png)
+![Summary Plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/Summary Plot.png)
+![Force plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/Force plot.png)
+![Decision plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/Decision plot.png)
 
 ### Dados
 O dataset pode ser baixado no kaggle: https://www.kaggle.com/c/titanic/data
