@@ -19,7 +19,6 @@ Algumas visus SHAP:
 ![Summary_Plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/Summary_Plot.png)
 ![Force_plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/Force_plot.png)
 ![Decision_plot](https://github.com/nathaliabrunet/Model-explainability-with-SHAP/tree/master/Imagens/Decision_plot.png)
-![Decision_plot](imagens/Decision_plot.png)
 
 ### Dados
 O dataset pode ser baixado no kaggle: https://www.kaggle.com/c/titanic/data
