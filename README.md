@@ -42,12 +42,12 @@ Curso sobre o assunto, também no kaggle: https://www.kaggle.com/learn/machine-l
 │   │   README.md
 │   │   SHAP_Titanic.ipynb
 │   │   submission.csv
-│   │   Resumo Estudo.pdf
+│   │   Resumo Análise.pdf
 │   │
 │   ├───imagens
-│   │       image.png
-│   │       image_individual.png
-│   │       image_tree.png
+│   │       Decision_plot.png
+│   │       Force_plot.png
+│   │       Summary_Plotpng
 │   │
 │   └───titanic data
 │       │   gender_submission.csv
