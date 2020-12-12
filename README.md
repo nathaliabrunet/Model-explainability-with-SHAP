@@ -42,6 +42,7 @@ Curso sobre o assunto, também no kaggle: https://www.kaggle.com/learn/machine-l
 │   │   README.md
 │   │   SHAP_Titanic.ipynb
 │   │   submission.csv
+│   │   Resumo Estudo.pdf
 │   │
 │   ├───imagens
 │   │       image.png
